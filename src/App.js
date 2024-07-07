@@ -26,7 +26,7 @@ function App() {
   }, [targetDate]);
 
   const carouselItems = [
-    "For the wrath within",
+    "For the war within",
     `${timeLeft.days || 0}d ${timeLeft.hours || 0}h ${timeLeft.minutes || 0}m ${
       timeLeft.seconds || 0
     }s`,
