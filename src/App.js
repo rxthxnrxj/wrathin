@@ -35,7 +35,7 @@ function App() {
   return (
     <Container
       fluid
-      className="vh-100 d-flex justify-content-center align-items-center"
+      className="vh-100 d-flex justify-content-center align-items-center bgOverall"
     >
       <Row className="justify-content-center text-center align-items-center">
         <Col>

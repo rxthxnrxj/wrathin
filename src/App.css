@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -49,4 +50,8 @@
   font-size: 1rem;
   font-weight:medium;
   color: #333;
+}
+
+.bgOverall{
+  background-color: #faf6ef !important;
 }
